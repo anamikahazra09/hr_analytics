@@ -62,3 +62,7 @@ The final dashboard was validated against HR's needs and revised based on simula
 - Translating business requirements into data models and visualizations
 
 ---
+
+### File and resources
+
+PowerBI Dashboard:- [Dashboard] (https://app.powerbi.com/reportEmbed?reportId=8f36f2df-7782-4a4d-a712-9c7b34a796b3&autoAuth=true&ctid=f7638ed5-4407-4a6d-ae99-5a24fcdb9a37) 
